@@ -1,0 +1,9 @@
+/* OrdersPage.css */
+.container {
+  max-width: 800px;
+}
+
+.btn-primary,
+.btn-secondary {
+  margin-top: 5px;
+}

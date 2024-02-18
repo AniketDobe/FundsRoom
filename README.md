@@ -7,6 +7,6 @@ Once the verification is done then it is good to go for delivery.
 
 **Note: We have to add the quality assurance team or AI for verification of the photos.**
 
-You can checkout the live demo [here.(https://fundsroom-assignment.netlify.app/)
+You can checkout the live demo here[(https://fundsroom-assignment.netlify.app/).
 
 <img src="https://drive.google.com/file/d/1v7QYlQldZ64Qdz1tRKon0vmqGr9RsGkG/view" alt="Flowchart" />

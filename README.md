@@ -8,3 +8,5 @@ Once the verification is done then it is good to go for delivery.
 **Note: We have to add the quality assurance team or AI for verification of the photos.**
 
 You can checkout the live demo [here.(https://fundsroom-assignment.netlify.app/)
+
+<img src="[https://komarev.com/ghpvc/?username=aniketdobe&label=Profile%20views&color=0e75b6&style=flat](https://drive.google.com/file/d/1v7QYlQldZ64Qdz1tRKon0vmqGr9RsGkG/view?usp=sharing)https://drive.google.com/file/d/1v7QYlQldZ64Qdz1tRKon0vmqGr9RsGkG/view?usp=sharing" alt="Flowchart" />

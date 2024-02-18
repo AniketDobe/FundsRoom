@@ -9,4 +9,4 @@ Once the verification is done then it is good to go for delivery.
 
 You can checkout the live demo here (https://fundsroom-assignment.netlify.app/).
 
-<img src="https://drive.google.com/file/d/1v7QYlQldZ64Qdz1tRKon0vmqGr9RsGkG/view" alt="Flowchart" />
+Also checkout the flow diagram here(https://drive.google.com/file/d/1v7QYlQldZ64Qdz1tRKon0vmqGr9RsGkG/view)
